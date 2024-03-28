@@ -1,8 +1,31 @@
-1.A total of 1078 movies were produced in the year 2019 in ‘Drama’ genre. Therefore, RSVP Movies should focus on ‘Drama’ genre for their next project.
-2.Approximately, the future project could have an average duration of 107 mins.
-3.From the dataset, we can predict that Dream Warrior Pictures (Ranked 1st) or National Theater Live (Ranked 2nd) or both could be their next project’s  production company.
-4.Due to higher average rating, James Mangold can be hired as the director for their next project.
-5. Bases on the median rating, Mammootty (ranked 1st) or Mohanlal (Ranked 2nd) can be hired as the actor for their next project.
-6.Based on the total votes received and average rating, Taapsee Pannu can be chosen as the actress for their next project.
-7.Based on the total votes and also for the regional feel, Vijay Sethupathi can be hired as the additional actor for their next project.
-8.As a global partner, Marvel studios (Ranked 1st), Twentieth century Fox (Ranked 2nd) or Warner Bros can be chosen as the number of votes received is comparatively higher than other production houses.
+# IMDB Data Analysis Repository
+
+This repository contains scripts and analysis for utilizing advanced SQL skills to perform analysis on IMDB data. The analysis focuses on ensuring data integrity, handling missing values, and optimizing queries for efficient performance.
+
+## Key Points
+
+1. **Advanced SQL Skills:** Utilize advanced SQL techniques for IMDB data analysis, prioritizing data integrity and proficient handling of missing values.
+
+2. **Comprehensive Rating Analysis:** Conduct a thorough analysis of ratings to identify top movies, successful production houses, and correlations between various factors.
+
+3. **Identification of Key Elements:** Identify popular genres, talented directors, and actors through average ratings analysis, aiding in decision-making for future projects.
+
+4. **Actionable Business Insights:** Generate actionable insights for potential high-grossing, multilingual movies based on the analysis results.
+
+5. **Query Optimization and Syntactical Excellence:** Ensure optimization of SQL queries for efficient performance and maintain syntactical excellence in coding practices.
+
+## Repository Structure
+
+- **Scripts:** Contains SQL scripts for data analysis and query optimization.
+- **Analysis:** Includes detailed reports and visualizations of the analysis findings.
+- **Documentation:** Supplementary documentation providing context, methodology, and interpretations.
+
+## Usage
+
+1. Clone the repository to your local machine.
+2. Execute SQL scripts using your preferred database management system.
+3. Refer to the analysis reports for insights and recommendations.
+
+## Contributors
+
+-Shrinidhi M I
